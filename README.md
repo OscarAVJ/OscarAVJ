@@ -3,14 +3,6 @@
 
 ---
 
-## 🧠 About Me
-
-🎓 I'm currently studying a **Technical High School Degree in Software Development**.  
-💻 I enjoy creating web and mobile applications while learning real-world tools and frameworks.  
-📱 Currently working on **KarbonZero**, a platform to help users estimate their carbon footprint.  
-
----
-
 ## 🔧 Skills & Tools
 
 - **Languages:** Java, JavaScript, Dart, C#, SQL
@@ -19,7 +11,7 @@
 - **Backend:** Spring Boot, Node.js (basic)
 - **Databases:** Oracle, MySQL
 - **Other Tools:** Git, GitHub, Vite, Postman, Figma
-
+- 
 ---
 
 ## 📫 Connect with Me
