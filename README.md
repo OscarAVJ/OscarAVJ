@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm Oscar Andrea</h1>
-<h3 align="center">💻 Software development | 🌱 Lifelong Learner</h3>
+<h1 align="center">Hey 👋, I'm AbelVJ</h1>
+<h3 align="center">💡 Software Development Student | 👨‍💻 Self-Taught</h3>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎓 I'm a student passionate about software development and using technology to make a real-world impact.  
-🌱 Currently building **KarbonZero**, a web and mobile system to help individuals and companies calculate their carbon footprint.  
-☁️ Certified **Google Cloud Professional Data Engineer**.  
-📚 Learning more about **Spring Boot**, **Oracle DB**, and **Framework7** for mobile UI development.
+🎓 I'm currently studying a **Technical High School Degree in Software Development**.  
+💻 I enjoy creating web and mobile applications while learning real-world tools and frameworks.  
+📱 Currently working on **KarbonZero**, a platform to help users estimate their carbon footprint.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Skills & Tools
 
-- **Languages:** Java, C#, Dart, JavaScript, SQL
-- **Frontend:** HTML, CSS, Bootstrap, Framework7, Flutter
-- **Backend:** Spring Boot, Node.js
+- **Languages:** Java, JavaScript, Dart, C#, SQL
+- **Mobile:** Flutter + Dart, Framework7 + Capacitor
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** Spring Boot, Node.js (basic)
 - **Databases:** Oracle, MySQL
-- **Tools:** Git, GitHub, Postman, Vite, Capacitor, Figma
+- **Other Tools:** Git, GitHub, Vite, Postman, Figma
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect with Me
 
-- Email: oscar.joyar@gmail.com 
+- Email: oscar.joyar@gmail.com  
 ---
 
-<p align="center">Thanks for stopping by! ❤️</p>
+<p align="center">Thanks for checking out my profile! ✨</p>
