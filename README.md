@@ -11,7 +11,6 @@
   <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://framework7.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/framework7.svg" alt="Framework7" width="40" height="40"/></a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40"/></a>
   <a href="https://capacitorjs.com/" target="_blank"><img src="https://site-assets.plasmic.app/6682dab9993ab90cdd9c952d8fba3f57.svg" alt="Capacitor" width="40" height="40"/></a>
