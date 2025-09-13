@@ -6,3 +6,8 @@
 ---
 
 <p align="center">Thanks for checking out my profile! ✨</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbelVJ&show_icons=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelVJ&layout=compact" alt="Top languages" />
+</p>
